@@ -1,0 +1,58 @@
+ 
+ div#Google {
+      margin-top: 160px; 
+ }
+
+ div {
+
+   text-align: center;
+
+   form {
+     height: 80px;
+
+     input {
+    background-color: #ffffff8f;
+     border-radius: 30px;
+     padding: 12px;
+     width: 420px;
+     border: 1px solid #d3cbcb8f;
+     box-shadow: red;
+     
+     }
+
+    }
+    
+    button:hover {
+      box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+      background-image: -webkit-linear-gradient(top,#f8f8f8,#f1f1f1);
+      background-color: #f8f8f8;
+      border: 1px solid #c6c6c6;
+      color: #222;}
+
+    button#one {
+      
+      background-color: #f8f8f8;
+      border-radius: 9px;
+      padding: 9.9px;
+      font-size: 18px;
+      margin: 30px;
+      border: none;
+      color: rgb(56, 46, 46);
+      cursor: pointer;
+      box-shadow: 0 10px 1px rgba(0,0,0,0.1);
+      user-select: none;
+    }
+
+    button#two {
+      background-color: #f8f8f8;
+      border-radius: 13zpx;
+      padding: 9.9px;
+      font-size: 18px;
+      margin: 10px;
+      border: none;
+      color: #222;
+      cursor: pointer;
+      box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+      user-select: none;
+    }
+  }
